@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/pycaret/pycaret/master/datasets/amazon.csv
 # TASH-PT
 
 O TASH-PT é um dataset para análise de sentimentos na língua portuguesa com dados coletados do Twitter. Os tweets foram anotados por voluntários humanos de acordo com os sentimentos expressados (positivo, negativo ou neutro).
